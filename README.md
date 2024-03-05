@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------
 
-Hey there! 👋 I've been diving into the world of code for the past five years, navigating the exciting realms of enterprise environments with a Java/J2EE focus. Always on the lookout for new challenges, I'm constantly polishing my skills and exploring the latest tech trends to stay ahead of the curve.
+Hey there! 👋 I've been diving into the world of code for the past five years, navigating the exciting realms of enterprise environments with a Java/J2EE focus. Always on the lookout for new challenges, I'm constantly polishing my skills and exploring the latest tech trends.
 
 * 🌍  I'm based in Ioannina/Greece
 * ✉️  You can contact me at [thanosdante@gmail.com](mailto:thanosdante@gmail.com)
