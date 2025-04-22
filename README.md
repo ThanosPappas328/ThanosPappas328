@@ -8,7 +8,7 @@ Hey there! 👋 I've been diving into the world of code for the past five years,
 
 * 🌍  I'm based in Ioannina/Greece
 * ✉️  You can contact me at [thanosdante@gmail.com](mailto:thanosdante@gmail.com)
-* 🧠  I'm learning Java, J2EE, Spring, JS, React
+* 🧠  I'm learning Java, J2EE, Spring, JS, React, Typescript, Python
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  My youngest cat is named Luffy.
 
